@@ -1,8 +1,4 @@
-"""
-WARNING:
-This file is intentionally insecure.
-It contains multiple security vulnerabilities for testing purposes ONLY.
-"""
+
 
 import os
 import pickle
